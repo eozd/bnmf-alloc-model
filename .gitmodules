@@ -1,0 +1,9 @@
+[submodule "bnmf-reports"]
+	path = bnmf-reports
+	url = git@github.com:eozd/bnmf-reports.git
+[submodule "bnmf-experiments"]
+	path = bnmf-experiments
+	url = git@github.com:eozd/bnmf-experiments.git
+[submodule "bnmf-algs"]
+	path = bnmf-algs
+	url = git@github.com:eozd/bnmf-algs.git
